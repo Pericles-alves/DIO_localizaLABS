@@ -1,0 +1,16 @@
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\InterfaceBancaria.exe
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\InterfaceBancaria.deps.json
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\InterfaceBancaria.runtimeconfig.json
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\InterfaceBancaria.runtimeconfig.dev.json
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\InterfaceBancaria.dll
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\ref\InterfaceBancaria.dll
+C:\workspace\DIO_dotnet\InterfaceBancaria\bin\Debug\net5.0\InterfaceBancaria.pdb
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.csprojAssemblyReference.cache
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.AssemblyInfoInputs.cache
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.AssemblyInfo.cs
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.csproj.CoreCompileInputs.cache
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.dll
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\ref\InterfaceBancaria.dll
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.pdb
+C:\workspace\DIO_dotnet\InterfaceBancaria\obj\Debug\net5.0\InterfaceBancaria.genruntimeconfig.cache
