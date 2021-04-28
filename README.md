@@ -3,4 +3,4 @@ Projetos realizados durante o bootcamp promovido pela LocalizaLABS juntamente co
 
 # Projetos
 
-## [InterfaceBancaria](https://github.com/Pericles-alves/DIO_localizaLABS/tree/main/InterfaceBancaria)
+## [InterfaceBancaria](https://github.com/Pericles-alves/DIO_localizaLABS/tree/master/InterfaceBancaria)
