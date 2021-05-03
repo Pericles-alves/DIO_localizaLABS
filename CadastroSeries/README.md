@@ -16,4 +16,7 @@
 ## Métodos Implementados main()
    Em construção
    
+<<<<<<< HEAD
 
+=======
+>>>>>>> b58f80b327776e86e587a61f861f25f118b45d10
