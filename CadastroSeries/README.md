@@ -1,22 +1,6 @@
-# CadastroSeries
+# LocalizaLABS .NET Developer
+Projetos realizados durante o bootcamp promovido pela LocalizaLABS juntamente com a Digital Innovation One e a ORBI.
 
-   2º Projeto proposto pelo bootcamp da LocalizaLABs
-   
-## Objetivo
+# Projetos
 
-   Criar uma aplicação simples que implementa cadastro, descrição, atualização e listagem de series de um serviço de stream
->O intuito do projeto é colocar em prática conceitos de Programação Orientada a Objetos (POO), tais como:  Herança, utilizando classes abstradas e interfaces, e a criação de um protótipo de banco de dado.
-
-## Classes criadas
-   Em construção
-
-## Métodos Implementados
-   Em construção
-
-## Métodos Implementados main()
-   Em construção
-   
-<<<<<<< HEAD
-
-=======
->>>>>>> b58f80b327776e86e587a61f861f25f118b45d10
+## [InterfaceBancaria](https://github.com/Pericles-alves/DIO_localizaLABS/tree/master/InterfaceBancaria)
